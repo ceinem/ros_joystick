@@ -7,14 +7,10 @@ This project utilizes an Arduino Nano as well as a simble [two axis joystick](ht
 
 Connect as following: 
 ```
-GND  -- GND
-
-VCC  -- 5V
-
-VRx  -- A0
-
-VRy  -- A1
-
-SW  -- D2
+GND  --  GND
+VCC  --  5V
+VRx  --  A0
+VRy  --  A1
+SW   --  D2
 ```
 
