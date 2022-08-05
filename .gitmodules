@@ -1,0 +1,3 @@
+[submodule "dependencies/rosserial"]
+	path = dependencies/rosserial
+	url = https://github.com/ros-drivers/rosserial.git
